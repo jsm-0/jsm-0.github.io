@@ -1,0 +1,28 @@
+h1{
+    color: rgb(230, 86, 199);
+  }
+.box {
+   border: 5px solid rgb(242, 48, 174);
+   border-radius: 10px;
+  }
+a:focus {
+    color: grey;
+    background: #804eab9a;
+}
+
+a:hover{
+  color: rgba(58, 43, 226, 0.386);
+}
+
+footer{
+  color: rgb(165, 118, 152);
+}
+
+h2 {
+  color: rgb(115, 22, 116);
+  
+}
+
+h3 {
+  color: rgb(182, 64, 184);  
+}
